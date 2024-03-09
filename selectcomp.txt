@@ -1,8 +1,2 @@
 com.google.api21,com.google.api27,com.google.api28,com.google.buildtools,com.google.googleplay,com.google.googlerep,com.google.ndk,com.google.platformtools,com.google.sdkbase,com.google.supportlib,com.google.supportrep,com.google.usbdriver,com.nvidia.nvtools.nsight_graphics,com.nvidia.nvtools.nsight_systems,com.nvidia.nvtools.nsight_tegra,com.nvidia.nvtx,com.nvidia.utils.usbshield,com.sun.java,org.apache.gradle.general,
 
-asfdfsdf
-fsdf
-sdf
-sdf
-sdf
-sdf
